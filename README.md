@@ -1,16 +1,12 @@
 ---
-
-  topic: 'sample' 
-  languages: 
-  - 'python' 
-  technologies: 
-  - 'Azure Machine Leaning' 
-  extensions: 
-    gallery_topics: 
-    - 'model' 
-    - 'onnx' 
-    - 'yolo'
-
+page_type: sample
+languages:
+- python
+- html
+products:
+- azure
+description: "This repository contains code which demonstrates how to deploy and run AI models using Azure Machine Learning Service."
+urlFragment: ai_gallery_yolo_test
 ---
 
 # Model in Azure AI Gallery for ONNX YOLO
