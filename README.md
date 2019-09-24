@@ -6,7 +6,7 @@ languages:
 products:
 - azure
 description: "This repository contains code which demonstrates how to deploy and run AI models using Azure Machine Learning Service."
-urlFragment: ai_gallery_yolo_test
+urlFragment: ai-gallery-yolo-sample
 ---
 
 # Model in Azure AI Gallery for ONNX YOLO
